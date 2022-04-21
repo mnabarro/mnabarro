@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias Nabarro</h1>
 
-<p>I'm a developer with several years working with Delphi. Now, turning to web development, starting with Node.js projects.</p>
+<p>I'm a developer with several years working with Delphi. Now, buliding backend projects with Node.js.</p>
 <!--
 **mnabarro/mnabarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
