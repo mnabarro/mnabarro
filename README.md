@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias Nabarro</h1>
 
-<p>I'm a developer with sexperiencie in Delphi. <s>Now, buliding backend projects with Spring Boot and Node.js.<s> At thie moment, I'm learning about platform and Python as tool to automate tastks.</p>
+<p>I'm a developer with sexperiencie in Delphi. <s>Now, buliding backend projects with Spring Boot and Node.js.</s>s> At thie moment, I'm learning about platform and Python as tool to automate tastks.</p>
 <!--
 **mnabarro/mnabarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
